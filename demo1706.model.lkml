@@ -15,3 +15,5 @@ explore: user_session {}
 explore:  active_user_session_v {}
 
 explore:   operation_action_count_v {}
+
+explore:  average_session_duration_v {}

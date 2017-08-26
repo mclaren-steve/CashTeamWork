@@ -13,3 +13,5 @@ explore: user_assignments {}
 explore: user_session {}
 
 explore:  active_user_session_v {}
+
+explore:   operation_action_count_v {}

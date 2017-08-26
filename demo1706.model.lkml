@@ -11,3 +11,5 @@ explore: user_actions {}
 explore: user_assignments {}
 
 explore: user_session {}
+
+explore:  active_user_session_v {}

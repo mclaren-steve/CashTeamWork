@@ -32,6 +32,7 @@ view: active_user_session_v {
 
   measure: total_duration {
     type: sum
+    sql: ${duration};;
     drill_fields: [duration]
   }
 }

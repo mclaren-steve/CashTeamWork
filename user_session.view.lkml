@@ -38,4 +38,5 @@ view: user_session {
     type: count
     drill_fields: [user_name]
   }
+
 }

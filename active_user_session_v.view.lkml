@@ -29,4 +29,9 @@ view: active_user_session_v {
     type: count
     drill_fields: [user_name]
   }
+
+  measure: total_duration {
+    type: sum
+    drill_fields: [duration]
+  }
 }

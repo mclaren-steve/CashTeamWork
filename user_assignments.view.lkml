@@ -15,7 +15,7 @@ view: user_assignments {
     type: count
     drill_fields: [user_name]
   }
-  measure: sum_amount {
+  measure: total_assignments {
     type: sum
     sql: ${assignment_count};;
   }

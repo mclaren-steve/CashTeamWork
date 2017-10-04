@@ -1,4 +1,4 @@
-connection: "demo1706"
+connection: "demo1709"
 
 # include all the views
 include: "*.view"
